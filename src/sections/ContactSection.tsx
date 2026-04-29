@@ -88,12 +88,12 @@ export default function ContactSection() {
         >
           <div className="space-y-4">
             <a
-              href="mailto:husseinwaliyu23@gmail.com"
+              href="mailto:info@husseinwaliyu.com"
               className="flex items-center gap-3 text-[#888888] hover:text-[#00B2FF] transition-colors duration-300 group"
             >
               <Mail className="w-5 h-5" />
               <span className="font-body text-sm md:text-base tracking-wide">
-                husseinwaliyu23@gmail.com
+                info@husseinwaliyu.com
               </span>
             </a>
             <a
