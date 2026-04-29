@@ -1,0 +1,28 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="900" fill="#201510"/>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <circle cx="1250" cy="190" r="250" fill="#F1C27D" fill-opacity="0.14"/>
+  <circle cx="320" cy="730" r="280" fill="#D4865A" fill-opacity="0.16"/>
+  <rect x="90" y="90" width="1420" height="720" rx="30" fill="#2A1A14" fill-opacity="0.78" stroke="#8A5A44"/>
+  <path d="M220 486C300 352 392 286 500 286C622 286 704 374 784 486" stroke="#F0D7B8" stroke-width="18" stroke-linecap="round"/>
+  <path d="M278 486C346 388 420 340 498 340C586 340 650 394 722 486" stroke="#D4865A" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="500" cy="250" r="74" fill="#F0D7B8" fill-opacity="0.14" stroke="#F0D7B8" stroke-width="2"/>
+  <path d="M500 196L516 230L554 235L526 262L532 300L500 282L468 300L474 262L446 235L484 230L500 196Z" fill="#F0D7B8"/>
+  <rect x="918" y="188" width="414" height="150" rx="20" fill="#321F18" stroke="#A66E54"/>
+  <rect x="918" y="370" width="414" height="150" rx="20" fill="#321F18" stroke="#A66E54"/>
+  <rect x="918" y="552" width="414" height="150" rx="20" fill="#321F18" stroke="#A66E54"/>
+  <text x="150" y="130" fill="#F4DEC6" font-family="Georgia, 'Times New Roman', serif" font-size="30" font-weight="700" letter-spacing="5">COMMUNITY • HOPE • IMPACT</text>
+  <text x="146" y="772" fill="#FFF4EA" font-family="Georgia, 'Times New Roman', serif" font-size="68" font-weight="700" letter-spacing="2">BETTER DREAM FOUNDATION</text>
+  <text x="924" y="252" fill="#FFF4EA" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700">Ghana-based nonprofit presence</text>
+  <text x="924" y="292" fill="#EBCDB4" font-family="Arial, Helvetica, sans-serif" font-size="22">Warm editorial layout for outreach and donations</text>
+  <text x="924" y="434" fill="#FFF4EA" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700">Trust-building storytelling</text>
+  <text x="924" y="474" fill="#EBCDB4" font-family="Arial, Helvetica, sans-serif" font-size="22">Campaign-ready sections and public contact access</text>
+  <text x="924" y="616" fill="#FFF4EA" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700">Donation-focused visual system</text>
+  <text x="924" y="656" fill="#EBCDB4" font-family="Arial, Helvetica, sans-serif" font-size="22">Elegant tones, progress cues, and mission-first UX</text>
+  <defs>
+    <linearGradient id="bg" x1="126" y1="100" x2="1456" y2="808" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#24140F"/>
+      <stop offset="1" stop-color="#5D3426"/>
+    </linearGradient>
+  </defs>
+</svg>

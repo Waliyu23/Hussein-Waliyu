@@ -1,0 +1,38 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="900" fill="#081018"/>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <circle cx="1260" cy="170" r="240" fill="#00B2FF" fill-opacity="0.18"/>
+  <circle cx="260" cy="760" r="320" fill="#1ED760" fill-opacity="0.12"/>
+  <rect x="92" y="92" width="1416" height="716" rx="28" fill="#0D1620" fill-opacity="0.88" stroke="#3A4A58"/>
+  <rect x="148" y="160" width="540" height="312" rx="18" fill="url(#panel1)"/>
+  <rect x="730" y="160" width="724" height="86" rx="16" fill="#101C28" stroke="#24506A"/>
+  <rect x="730" y="274" width="724" height="86" rx="16" fill="#101C28" stroke="#24506A"/>
+  <rect x="730" y="388" width="724" height="86" rx="16" fill="#101C28" stroke="#24506A"/>
+  <rect x="148" y="516" width="1306" height="184" rx="22" fill="#0E1A25" stroke="#2B3D4C"/>
+  <path d="M208 618H634" stroke="#00B2FF" stroke-width="8" stroke-linecap="round"/>
+  <path d="M208 654H574" stroke="#87D8FF" stroke-width="8" stroke-linecap="round" stroke-opacity="0.7"/>
+  <path d="M208 690H480" stroke="#87D8FF" stroke-width="8" stroke-linecap="round" stroke-opacity="0.45"/>
+  <g opacity="0.95">
+    <rect x="188" y="204" width="224" height="224" rx="18" fill="#081018" fill-opacity="0.75" stroke="#00B2FF" stroke-opacity="0.4"/>
+    <path d="M250 324L324 250L392 318L462 248" stroke="#00B2FF" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="250" cy="324" r="15" fill="#1ED760"/>
+    <circle cx="324" cy="250" r="15" fill="#1ED760"/>
+    <circle cx="392" cy="318" r="15" fill="#1ED760"/>
+    <circle cx="462" cy="248" r="15" fill="#1ED760"/>
+  </g>
+  <text x="148" y="782" fill="#F5F5F5" font-family="Arial, Helvetica, sans-serif" font-size="72" font-weight="700" letter-spacing="3">DIGISERVE SOLUTION</text>
+  <text x="150" y="128" fill="#7FD4FF" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" letter-spacing="6">IT SUPPORT • SOFTWARE • MARKETING</text>
+  <text x="770" y="215" fill="#F5F5F5" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" letter-spacing="2">Complete digital solutions</text>
+  <text x="770" y="329" fill="#F5F5F5" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" letter-spacing="2">Business-first service design</text>
+  <text x="770" y="443" fill="#F5F5F5" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" letter-spacing="2">Modern brand and growth systems</text>
+  <defs>
+    <linearGradient id="bg" x1="174" y1="84" x2="1458" y2="804" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0A1520"/>
+      <stop offset="1" stop-color="#132636"/>
+    </linearGradient>
+    <linearGradient id="panel1" x1="148" y1="160" x2="688" y2="472" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#12324A"/>
+      <stop offset="1" stop-color="#0B1622"/>
+    </linearGradient>
+  </defs>
+</svg>

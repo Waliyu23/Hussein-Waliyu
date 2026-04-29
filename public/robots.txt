@@ -1,0 +1,28 @@
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://husseinwaliyu.com/sitemap.xml
+
+# Crawl delay and request rate
+Crawl-delay: 1
+Request-rate: 1/1s
+
+# Specific disallows for private/admin areas (if any)
+Disallow: /admin/
+Disallow: /api/
+Disallow: /private/
+
+# Allow search engines to crawl assets
+Allow: /
+
+# Google-specific
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 0
+
+# Bing-specific
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1
+
